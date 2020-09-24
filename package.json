@@ -1,7 +1,7 @@
 {
-  "name": "personalportfolio",
+  "name": "giovanni-portfolio",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "http://giovannicucchi.github.io/my-portfolio",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
