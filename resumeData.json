@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Giovanni Cucchi",
+    "description":"I am a developer focused on Front End Development.",
+    "image":"profilepic.jpg",
+    "bio":"Experienced Frontend Developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Applications, Full-Stack Development, Web Applications, Front-end Development, and Web Application Development. Strong engineering professional with a Bachelor of Engineering - BE focused in Computer Engineering from Universidade Salvador.  ",
+    "contactmessage":"Wanna work on something? I'm sure we can figure it out together!",
+    "email": "gcobastos@gmail.com",
+    "phone": "+55 71 98384-1815",
+    "github":"https://github.com/giovannicucchi",
+    "linkedin":"https://www.linkedin.com/in/giovanni-cucchi/",
+    "address":{
+      "street":"",
+      "city":"Lauro de Freitas",
+      "state":"Bahia",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"https://cdn-33.anonfiles.com/P5e958Y3o1/9e49e838-1600983508/giovanniresume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/giovanniicucchi",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/giovanni-cucchi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/giovanniicucchi",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/giovannicucchi",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my main skills. That's not exactly 100% correct, graphs can vary for more and less :)",
+    "education":[
+      {
+        "school":"Universidade Salvador - UNIFACS",
+        "degree":"Computer Engineering",
+        "graduated":"December 2017",
+        "description":"Since the beginning I was looking to develop my programming ability, which has rewarded me a place in one of the universities labs. In this lab I did some voluntary work helping other students and teachers during classes some until the end of my course."
+      }
+    ],
+    "work":[
+      {
+        "company":"Player 2",
+        "title":"Front End Developer - Jr",
+        "years":"June 2020 - Present",
+        "description":"Currently working as a Front End Developer."
+      },
+      {
+        "company":"ADSS",
+        "title":"Full Stack Developer - Internship",
+        "years":"October 2016 - December 2017",
+        "description":"Worked developing websites and applications for mobile and desktop devices. During this time, was able to get experience with HTML, CSS, JavaScript, TypeScript, Python, and also including Django and Ionic Frameworks."
+      },
+      {
+        "company":"BRISA",
+        "title":"QA Analyst - Internship",
+        "years":"December 2014 - September 2016",
+        "description":"Worked with black-box testing which examined the functionality of LG’s smartphones and devices."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Getting shit done",
+        "level":"99%"
+      },
+      {
+        "name":"Scrum / AGILE / GIT",
+        "level":"100%"
+      },
+      {
+        "name":"Team Work",
+        "level":"100%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Laboratório LPC",
+        "category":"Web and Mobile application for iOS and Android developed while I was working at ADSS. Contains Django Framework, Angular and Ionic Framework.",
+        "image":"mockup-lpc.jpg",
+        "url":"https://www.laboratoriolpc.com.br"
+      },
+      {
+        "title":"Niicaz",
+        "category":"Web and Mobile application currently under work. ReactJS and React Native are being used.",
+        "image":"mockup-niicaz.jpg",
+        "url":"https://www.niicaz.com.br"
+      }
+    ]
+  }
+}
