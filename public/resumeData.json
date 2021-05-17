@@ -53,7 +53,7 @@
     "work":[
       {
         "company":"Player 2",
-        "title":"Front End Developer - Jr",
+        "title":"Front End Developer",
         "years":"June 2020 - Present",
         "description":"Currently working as a Front End Developer."
       },
@@ -89,7 +89,7 @@
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"React Native",
@@ -97,7 +97,7 @@
       },
       {
         "name":"Javascript",
-        "level":"80%"
+        "level":"90%"
       }
     ]
   },
@@ -113,7 +113,13 @@
         "title":"Niicaz",
         "category":"Web and Mobile application currently under work. ReactJS and React Native are being used.",
         "image":"mockup-niicaz.jpg",
-        "url":"https://www.niicaz.com.br"
+        "url":"https://play.google.com/store/apps/details?id=com.player2.niicaz&hl=en_US&gl=US"
+      },
+      {
+        "title":"Bot Pra Vender",
+        "category":"Web application for online sales through WhatsApp currently under work. ReactJS and ReactJS are being used.",
+        "image":"botpravender.jpg",
+        "url":"https://www.botpravender.com.br/"
       }
     ]
   }
